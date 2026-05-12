@@ -42,10 +42,10 @@ This project was created while practicing Flexbox, CSS positioning, layout struc
 A modern insect classification and showcase inspired landing page with a clean and premium UI design.
 
 ---
-
+ 
 ## 🌐 Live Demo
 
-Add your GitHub Pages link here
+[View Live Project](https://ravsahebdev.github.io/insect-classification-ui/)
 
 ---
 
